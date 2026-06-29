@@ -1,2 +1,2 @@
 #Update this version code when new binary file is uploaded
-1
+2
